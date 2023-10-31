@@ -19,7 +19,7 @@
     "pub": "npm run test && npm run build && npm publish"
   },
   "peerDependencies": {
-    "next": "13.5.4",
+    "next": "^13.5.4",
     "react": "18.2.0"
   },
   "devDependencies": {
